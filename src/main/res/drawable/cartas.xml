@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/c1" >1</item>
+    <item android:drawable="@drawable/c2" >2</item>
+    <item android:drawable="@drawable/c3" >3</item>
+    <item android:drawable="@drawable/c4" >4</item>
+    <item android:drawable="@drawable/c5" >5</item>
+    <item android:drawable="@drawable/c6" >6</item>
+    <item android:drawable="@drawable/c7" >7</item>
+    <item android:drawable="@drawable/c8" >8</item>
+    <item android:drawable="@drawable/c9" >9</item>
+    <item android:drawable="@drawable/c10" >10</item>
+    <item android:drawable="@drawable/c11" >11</item>
+    <item android:drawable="@drawable/c12" >12</item>
+    <item android:drawable="@drawable/c13" >13</item>
+</selector>
